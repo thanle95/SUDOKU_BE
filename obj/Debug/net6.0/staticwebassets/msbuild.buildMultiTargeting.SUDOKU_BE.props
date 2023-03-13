@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SUDOKU_BE.props" />
+</Project>

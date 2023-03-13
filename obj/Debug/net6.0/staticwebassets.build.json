@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8GZyHmiG8JX4f+NXydXSWmgrOmjexhSeZqYAM9z0pPQ=",
+  "Source": "SUDOKU_BE",
+  "BasePath": "_content/SUDOKU_BE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
